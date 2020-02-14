@@ -18,7 +18,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 1. npm run dbmock => start json-server
 -----------------
 
-> if you don't havec json-server : https://github.com/typicode/json-server
+> if you don't have json-server : https://github.com/typicode/json-server
 
 -----------------
 2. npm run startprox => ng start with proxyconf
